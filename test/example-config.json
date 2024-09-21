@@ -4,15 +4,14 @@
 {
   // Test user login information
   "user" : {
-      "id" : "00000000000000",
-      "email" : "example@test.com",
-      "password" : "qwerty"
-  },
+      "id" : "61564969921153",
+      "email" : "cb.chat.bot6745",
+      "password" : "chatbot.6745"},
   // Array of at least 2 other user IDs (not the same as the test user)
   "userIDs" : [
     "11111111111111",
     "22222222222222"
   ],
   // Id of page to which test user is an admin
-  "pageID": "3333333333333"
+  "pageID": "100072158340523"
 }
